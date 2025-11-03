@@ -1,10 +1,10 @@
-import MovieCard  from "./components/MovieCard"
+import Home from "./pages/HomePage"
 
 function App() {
 
   return (
     <>
-      <MovieCard movie={{title : "Last of us" , release_date : "2024"}}/>
+      <Home />
     </>
   )
 }
