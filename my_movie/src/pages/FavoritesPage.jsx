@@ -1,3 +1,4 @@
+import '../style/Favorites.css'
 function Favorites(){
 
     return (

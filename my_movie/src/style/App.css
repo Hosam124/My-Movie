@@ -1,0 +1,15 @@
+.main-content {
+    flex: 1;
+    padding: 2.5rem;
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 1200px;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    margin: 1.6rem auto;
+    background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));
+    border-radius: 14px;
+    backdrop-filter: blur(6px) saturate(120%);
+    box-shadow: 0 8px 30px rgba(2,6,23,0.6);
+}
